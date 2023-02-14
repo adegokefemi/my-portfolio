@@ -1,5 +1,6 @@
 
 import React from 'react'
+import Footer from '../Components/Footer/Footer'
 import HeroImg from '../Components/Hero/HeroImg'
 import Navbar from '../Components/Navbar/Navbar'
 
@@ -8,6 +9,7 @@ const Home = () => {
     <div>
       <Navbar />  
       <HeroImg />
+      <Footer />
     </div>
   )
 }
