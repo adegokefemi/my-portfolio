@@ -11,10 +11,11 @@ const Footer = () => {
             <div className="location">
                 <FaHome size={20} 
                 style={{ color: "#fff",  marginRight: "20px"}}/>
+                 <div>
+                    <p>Mainland,</p>
+                    <p>Ikeja, Lagos.</p>
+                 </div>
             </div>
-            <p>Mainland</p>
-            <p>Ikeja, Lagos</p>
-
             <div className="phone">
             <h4>
                 <FaPhone size={20} 
@@ -31,7 +32,7 @@ const Footer = () => {
         </div>
         </div>
         <div className="right">
-            <h4>DevFemolas</h4>
+            <h4>DevFemolas.</h4>
             <p>I'm a react frontend developer and you can reach 
             out to me for your aesthetic and responsive design.</p>
             <div className="social">
