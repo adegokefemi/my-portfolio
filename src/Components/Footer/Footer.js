@@ -33,8 +33,7 @@ const Footer = () => {
         </div>
         <div className="right">
             <h4>DevFemolas.</h4>
-            <p>I'm a react frontend developer and you can reach 
-            out to me for your aesthetic and responsive design.</p>
+            <p>I'm a friendly Full-Stack developer.</p>
             <div className="social">
                 <FaLinkedin size={30} 
                 style={{ color: "#fff",  
