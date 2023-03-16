@@ -14,7 +14,7 @@
 
 .project-card {
     background:#1a1919;
-    padding: 10px;
+    padding: 30px;
 }
 
 .project-card img {
@@ -24,16 +24,18 @@
 .project-title {
     color: #fff;
     padding: 5px 0;
+    text-align: center;
 }
 
 .pro-details p {
     padding-bottom: 20px;
     font-size: 15px;
-    text-align: justify;
+    text-align: center;
 }
 
 .pro-btns {
     padding-bottom: 10px;
+    text-align: center;
 }
 
 @media screen and  (max-width: 480px) {

@@ -9,7 +9,7 @@ const HeroImg = () => {
     <div className="hero">
        <div className="mask">
             <img className="intro-img" 
-            src="https://github.com/tech2etc/React-JS-Crash-Course/blob/main/src/assets/intro-bg.jpg?raw=true" 
+            src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60" 
             alt="IntroImg"/>
        </div>
        <div className="content">
